@@ -4,7 +4,7 @@ import { Mail, Phone, MapPin, Github, Linkedin, Send, CheckCircle, AlertCircle }
 import { personalInfo } from '../data/personalInfo';
 
 // Replace YOUR_FORM_ID with your Formspree form ID from https://formspree.io
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mgobjalq';
+const FORMSPREE_ENDPOINT = import.meta.env.VITE_FORMSPREE_ENDPOINT;
 
 export default function Contact() {
   const [formState, setFormState] = useState({ name: '', email: '', message: '' });
