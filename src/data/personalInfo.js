@@ -6,7 +6,7 @@ export const personalInfo = {
   phone: '+91 8286215324',
   github: 'https://github.com/pramodbaghel',
   linkedin: 'https://linkedin.com/in/pbaghel1',
-  location: 'Mumbai, India',
+  location: 'Kalyan, India',
   experienceYears: '8+',
   experiencePeriod: 'July 2018 - Present',
   tagline:
