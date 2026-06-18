@@ -1,6 +1,6 @@
 # Pramod Baghel — Portfolio Website
 
-A modern, production-ready single-page portfolio built with **React 18**, **Vite**, **Tailwind CSS**, and **Framer Motion**. Inspired by [sashikumar.dev](https://www.sashikumar.dev/) with a custom emerald/teal theme.
+A modern, production-ready single-page portfolio built with **React 18**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
 ## Features
 
